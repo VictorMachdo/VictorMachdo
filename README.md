@@ -17,6 +17,7 @@ Apaixonado por tecnologia
 )](https://dev.to/victormachdo)
 
 ![Victor GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMachdo&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMachdo&show_icons=true&theme=dracula)
 
 ### Tecnologias 
 
